@@ -1,0 +1,50 @@
+{
+    "DQN": {
+            "seed" : 0,
+            "lr" : 1e-3,
+            "batch_size" : 16,
+            "capacity" : 20000,
+            "hidden_dim" : 32,
+            "epochs" : 5,
+            "embedding_size" : 32,
+            "cons_num_features" : 2,
+            "vars_num_features" : 8,
+            "gamma" : 0.99,
+            "epsilon" : 0.2,
+            "min_epsilon" : 0.2,
+            "min_epsilon_ratio" : 0.99,
+            "decaying_epsilon" : false,
+            "step_penalty" : 1,
+            "alpha_obj_weight" : 5,
+            "action_pool_size" : 10,
+            "max_episode_num" : 234,
+            "model_index" : 3
+    },
+    "PPO": {
+            "seed" : 0,
+            "actor_lr" : 1e-3,
+            "critic_lr" : 1e-3,
+            "batch_size" : 16,
+            "capacity" : 20000,
+            "hidden_dim" : 32,
+            "epochs" : 20,
+            "embedding_size" : 32,
+            "cons_num_features" : 2,
+            "vars_num_features" : 8,
+            "gamma" : 0.99,
+            "epsilon" : 0.2,
+            "min_epsilon" : 0.2,
+            "min_epsilon_ratio" : 0.99,
+            "decaying_epsilon" : false,
+            "step_penalty" : 1,
+            "alpha_obj_weight" : 5,
+            "action_pool_size" : 10,
+            "max_episode_num" : 234,
+            "model_index" : 0,
+            "action_dim" : 10,
+            "eps_clip"   : 0.1
+    }
+  }
+  
+  
+  

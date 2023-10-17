@@ -1,4 +1,8 @@
 **/outputs/**
+**/outputs**
 **/playground/**
 **/__pycache__/**
 **/**.ipynb
+**.log
+**.sh
+**.lp
