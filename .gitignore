@@ -1,0 +1,4 @@
+**/outputs/**
+**/playground/**
+**/__pycache__/**
+**/**.ipynb
