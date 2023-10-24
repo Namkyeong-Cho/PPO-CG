@@ -1,0 +1,10 @@
+{
+    "epsidoe_num": "165",
+    "instance_num": "179",
+    "training_time": "213.22565364837646",
+    "episode_reward": "-66.0868058025754",
+    "num_of_step": "16.0",
+    "instance_name": "rc104.txt",
+    "num_of_n": "5",
+    "total_loss": "tf.Tensor(0.4893035, shape=(), dtype=float32)"
+}

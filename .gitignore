@@ -1,6 +1,7 @@
 # **/outputs/**
 # **/outputs**
-
+**/outputs_legacy**
+**legacy**
 **/playground/**
 **/__pycache__/**
 **/**.ipynb

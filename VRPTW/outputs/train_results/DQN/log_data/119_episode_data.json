@@ -1,0 +1,10 @@
+{
+    "epsidoe_num": "87",
+    "instance_num": "119",
+    "training_time": "88.41227078437805",
+    "episode_reward": "-179.8899082568807",
+    "episode_loss": "441.24524",
+    "num_of_step": "29",
+    "instance_name": "r109.txt",
+    "num_of_n": "7"
+}
