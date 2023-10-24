@@ -1,0 +1,8 @@
+{
+    "epsidoe_num": "124",
+    "training_time": "793.831981420517",
+    "episode_reward": "1193.1879546480711",
+    "episode_loss": "229.70514",
+    "num_of_step": "35",
+    "instance_name": "BPP_50_120_0.1_0.7_3.txt"
+}

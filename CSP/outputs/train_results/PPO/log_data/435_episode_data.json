@@ -1,0 +1,8 @@
+{
+    "epsidoe_num": "435",
+    "training_time": "2682.9778592586517",
+    "average_episode_reward": "2964.2926264588486",
+    "average_num_of_step": "209.25",
+    "instance_name": "BPP_200_300_0.2_0.8_4.txt",
+    "epoch": "20"
+}
